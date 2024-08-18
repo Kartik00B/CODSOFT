@@ -25,7 +25,7 @@ This project was developed as part of my virtual internship at CodSoft. The goal
 
 ## 🚀 How to View
 
-You can view the website code here: [Portfolio Website](#) (Replace `https://github.com/Kartik00B` with your actual GitHub Pages link or the URL where your portfolio is hosted)
+You can view the website code here: [Portfolio Website](https://github.com/Kartik00B/My_Portfolio/)
 
 ## 📁 Project Structure
 
@@ -56,9 +56,9 @@ To explore the code or run the project locally:
 
 Feel free to reach out if you have any questions or suggestions:
 
-- **Email**: [your.email@example.com](mailto:kartikbhapkar09@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/kartik-bhapkar-632b72242/)
-- **GitHub**: [Your GitHub Profile](https://github.com/Kartik00B)
+- **Email**: [kartikbhapkar09@gmail.com](mailto:kartikbhapkar09@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/kartik-bhapkar-632b72242/](https://www.linkedin.com/in/kartik-bhapkar-632b72242/)
+- **GitHub**: [https://github.com/Kartik00B](https://github.com/Kartik00B)
 
 ## 🎉 Acknowledgments
 
