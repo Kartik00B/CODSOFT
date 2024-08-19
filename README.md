@@ -8,7 +8,7 @@ This repository contains all the projects I developed during my internship at Co
 1. Portfolio Website
 A personal portfolio website designed to showcase my skills, projects, and experience. The website features a modern design with a hero section, project gallery, and contact form.
 
-**Key Features**:
+Key Features:
 
 **Hero Section**: A stylish intro section with a glassmorphism effect.
 **Project Gallery**: A showcase of my completed projects with detailed descriptions.
